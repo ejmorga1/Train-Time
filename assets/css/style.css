@@ -1,0 +1,17 @@
+body {
+    background: rgb(219,193,100);
+}
+
+.jumbotron {
+    background: rgb(136,52,42);
+    color: white;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.tops {
+    background: rgb(39,88,93);
+}
+
+#add-train-btn {
+    background: rgb(208,137,43);
+}
